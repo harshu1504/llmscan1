@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+torchvision
+plotly
+pandas
+scikit-learn
+accelerate
+scipy
+textblob
+sentence-transformers
+matplotlib
